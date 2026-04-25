@@ -1,0 +1,8 @@
+{
+  "message": "Expense added",
+  "data": {
+    "id": 1,
+    "name": "food",
+    "amount": 200
+  }
+}
